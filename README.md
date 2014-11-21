@@ -6,6 +6,8 @@ Official repository of Sloth GIFs for hackEDU.
 
 * [Miscellaneous](https://github.com/hackedu/sloth-gifs#Miscellaneous)
 
+## Categories
+
 #### Miscellaneous
 
 ![Shhhhhhh](shhhhhhh.gif)
