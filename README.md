@@ -1,6 +1,7 @@
 # sloth-gifs
 
-Official repository of Sloth GIFs for hackEDU.
+Official repository of Sloth GIFs for hackEDU. Maintained by
+[TheThirdOne](https://github.com/TheThirdOne).
 
 ##### Index
 
