@@ -11,3 +11,5 @@ Official repository of Sloth GIFs for hackEDU.
 #### Miscellaneous
 
 ![Shhhhhhh](shhhhhhh.gif)
+
+![Why not?](why_not.gif)
