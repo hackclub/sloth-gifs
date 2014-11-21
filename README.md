@@ -13,3 +13,5 @@ Official repository of Sloth GIFs for hackEDU.
 ![Shhhhhhh](shhhhhhh.gif)
 
 ![Why not?](why_not.gif)
+
+![Swine](swine.gif)
