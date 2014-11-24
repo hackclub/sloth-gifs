@@ -20,3 +20,9 @@ Official repository of Sloth GIFs for hackEDU. Maintained by
 ![Follow your dreams](follow_your_dreams.gif)
 
 ![I believe I can fly](i_believe_i_can_fly.gif)
+
+![can fly](i_believe_i_can_fly.gif)
+
+![Scratching](scratching.gif)
+
+![Princess](princess.gif)
